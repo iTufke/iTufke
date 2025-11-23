@@ -1,3 +1,5 @@
+<img align="right" src="https://count.getloli.com/get/@:iTufke?theme=rule34">
+
 ## ✨ 𝔸𝔹𝕆𝕌𝕋 𝕄𝔼 ✨
 大家好，这里是秋秋 ~ 欢迎访问我的Github主页
 
