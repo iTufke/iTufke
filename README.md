@@ -6,3 +6,11 @@
 我是一名跨性别者，𝑻𝒓𝒂𝒏𝒔-𝑴𝒕𝑭 🏳️‍⚧️
 
 正在学习C++ / C# | 渴望学会 JavaScript / TypeScript / Python / Java / Rust
+
+### Github 活跃度
+
+[![](https://activity-graph.herokuapp.com/graph?username=iTufke&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![荼柯's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTufke&langs_count=6)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iTufke&layout=compact&langs_count=6)
