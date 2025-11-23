@@ -7,7 +7,7 @@
 
 正在学习C++ / C# | 渴望学会 JavaScript / TypeScript / Python / Java / Rust
 
-### 🌟 𝔾𝕚𝕥𝕙𝕦𝕓 𝕍𝕚𝕖𝕨𝕤 🌟
+## 🌟 𝔾𝕚𝕥𝕙𝕦𝕓 𝕍𝕚𝕖𝕨𝕤 🌟
 
 [![](https://activity-graph.herokuapp.com/graph?username=iTufke&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![荼柯's github stats](https://github-readme-stats.vercel.app/api?username=iTufke&show_icons=true&theme=vue)
