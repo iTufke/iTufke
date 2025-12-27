@@ -23,5 +23,4 @@
 [![](https://activity-graph.herokuapp.com/graph?username=iTufke&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![荼柯's github stats](https://github-readme-stats.vercel.app/api?username=iTufke&show_icons=true&theme=vue)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTufke&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iTufke&layout=compact&langs_count=6)
+[![iTufke's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iTufke0&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
