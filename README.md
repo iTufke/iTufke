@@ -20,7 +20,6 @@
 
 ### 📃 𝔾𝕚𝕥𝕙𝕦𝕓 𝕍𝕚𝕖𝕨𝕤 📃
 
-[![](https://activity-graph.herokuapp.com/graph?username=iTufke&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![荼柯's github stats](https://github-readme-stats.vercel.app/api?username=iTufke&show_icons=true&theme=vue)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=iTufke)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 [![iTufke's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iTufke&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
